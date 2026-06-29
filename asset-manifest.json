@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//food-receipes001/static/css/main.4fda27ab.css",
-    "main.js": "//food-receipes001/static/js/main.dd1a83d9.js",
-    "index.html": "//food-receipes001/index.html",
-    "main.4fda27ab.css.map": "//food-receipes001/static/css/main.4fda27ab.css.map",
-    "main.dd1a83d9.js.map": "//food-receipes001/static/js/main.dd1a83d9.js.map"
+    "main.css": "/food-receipes-new-one002github.io/animeverse/static/css/main.4fda27ab.css",
+    "main.js": "/food-receipes-new-one002github.io/animeverse/static/js/main.f67b41d6.js",
+    "index.html": "/food-receipes-new-one002github.io/animeverse/index.html",
+    "main.4fda27ab.css.map": "/food-receipes-new-one002github.io/animeverse/static/css/main.4fda27ab.css.map",
+    "main.f67b41d6.js.map": "/food-receipes-new-one002github.io/animeverse/static/js/main.f67b41d6.js.map"
   },
   "entrypoints": [
     "static/css/main.4fda27ab.css",
-    "static/js/main.dd1a83d9.js"
+    "static/js/main.f67b41d6.js"
   ]
 }
